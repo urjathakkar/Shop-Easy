@@ -42,7 +42,7 @@ nltk==3.4.1
 notebook==6.0.1
 numpy==1.16.3
 opencv-contrib-python==3.4.8.29
-ortools==6.10.6025
+ortools==6.6.4659
 pandas==0.24.2
 pandocfilters==1.4.2
 parso==0.5.1
